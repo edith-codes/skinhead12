@@ -8,10 +8,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Vue Js | React Js
-- 🌐 &nbsp;  HTML | CSS | JavaScript 
-- 🛢 &nbsp; MySQL | Firebase 
-- 🔧 &nbsp; Visual Studio code | Git
+- 💻 &nbsp; Vue Js | React Js | cells (lit Element)
+- 🌐 &nbsp;  HTML | CSS | JavaScript | Typescript | Java 
+- 🛢 &nbsp;  Firebase 
+- 🔧 &nbsp; Visual Studio code | Git 
 - 🖥 &nbsp; Gimp xD
 
 <br>
